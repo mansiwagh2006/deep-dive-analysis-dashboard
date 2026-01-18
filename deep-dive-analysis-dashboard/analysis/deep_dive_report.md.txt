@@ -1,0 +1,24 @@
+# Deep-Dive Analysis Report
+
+## Objective
+To answer complex business questions through deep-dive analysis and an
+interactive Power BI dashboard.
+
+## Core KPIs
+- Total Revenue = Sum of total_sales
+- Total Orders = Distinct count of order_id
+- Average Order Value (AOV) = Revenue / Orders
+- Total Quantity Sold = Sum of weight_kg
+
+## Deep-Dive Focus
+Product Performance Analysis
+
+## Key Insights
+1. Some products generate high revenue but sell less quantity.
+2. Monthly sales show seasonality.
+3. High-volume products do not always produce high revenue.
+
+## Business Recommendations
+- Focus promotions on high-revenue products.
+- Review pricing for high-volume products.
+- Plan inventory for peak months.
