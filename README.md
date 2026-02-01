@@ -90,6 +90,9 @@ Revenue by Product
 
 Quantity Sold by Product
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/363842a3-4a2c-4b98-9f7c-ab84375cf489" />
+
+
 🔹 Filters (Slicers)
 
 Year
